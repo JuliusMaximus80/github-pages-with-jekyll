@@ -1,3 +1,6 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hey there, welcome to my blog, here I plan to share and post about: 
+- Data Science 
+- Datasets
+- And many more fun stuff!  :smile: 
