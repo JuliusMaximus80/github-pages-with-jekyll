@@ -1,3 +1,8 @@
+---
+title: "Hello World@"
+date: 2020-05-17
+---
+
 #Hello World! 
 
 Welcome to my first blog post here in GitHub, from now on I will be sharing in a weekly basis some tips and tricks on Data Science and 
